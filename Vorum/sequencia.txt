@@ -1,0 +1,76 @@
+1. Intro Wagorn
+
+1. Intro Jalax
+Gadrock salvar menina no esconderijo dos bandidos.
+Onibus                                   (Testado)
+
+2. VOLTA PRA WAGORN:
+Tara
+Bombardeiro               (Testado)
+
+2. VOLTA PRA JALAX:
+Kanalan
+Gadrock passagem direito
+Camina
+Caverna                                  (Testado)
+
+3. VOLTA PRA WAGORN:
+Encontro com Cornélios                   
+Cena do trem Wagorn
+Assassino
+Obrigado Row                             (Testado)
+
+
+3. VOLTA PRA JALAX:
+Encontro na caverna
+Diretor                                  (Testado)
+
+4. VOLTA PRA WAGORN:
+Wagorn lembrando da família
+Casa sofia assassinato
+Row descobre um padrão, a maioria das pessoas mortas trabalharam em Morsvaley.
+Daniel Valeri
+Dívida de família, ataque foldur.        (Pendente de testar transição)
+
+4. VOLTA PRA JALAX:
+Saída de lastroid
+Stanley na casa
+Corrida na floresta
+Isso agora faz parte de você.            (Pendente de testar transição)
+
+
+5. VOLTA PRA WAGORN:
+Tom e ofélia
+Sem registros e convite para reunião
+Magna Hereditaten
+Contenção, hospitais de campanha.        (Pendente de testar transição)
+
+5. VOLTA PRA JALAX:
+Continuar vivendo Kyo acorda.
+Sequencia de gameplay
+Explosivo
+Céu, fogo e água.                        (Pendente de testar transição)
+
+6. VOLTA PRA WAGORN:
+Telefonema mais difícil
+Paimon                                   (Pendente de testar transição)
+
+6. VOLTA PRA JALAX:
+O carniceiro                             (Pendente de testar transição)
+ 
+7. VOLTA PRA WAGORN:
+Fazer diferença 
+Passado, presente e futuro.              (Pendente de testar transição)
+
+7. VOLTA PRA JALAX:
+A chegada
+A regra dos tiranos                      (Pendente de testar transição)
+
+8. VOLTA PRA WAGORN:
+Tragédia
+Meu método                               (Pendente de testar transição)
+
+8. VOLTA PRA JALAX:
+Lux Meridionali                          
+
+#####FINAL############

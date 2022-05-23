@@ -1,0 +1,149 @@
+﻿<@1>
+    name: <pt: Espada de Bronze> <en: Bronze Sword>
+    <desc_pt>Espada simples forjada em bronze.</desc_pt>
+    <desc_en>Simple sword forged in bronze.</desc_en>
+<@1>
+
+<@2>
+    name: <pt: Espada de Ferro> <en: Iron Sword>
+    <desc_pt>Espada de ferro reforçado.</desc_pt>
+    <desc_en>Good Iron Sword.</desc_en>
+<@2>
+
+<@3>
+    name: <pt: Espada de Aço> <en: Sword of Steel>
+    <desc_pt>Liga metálica bastante resistente constituída de ferro com carbono.</desc_pt>
+    <desc_en>Resistant metallic alloy made of iron with carbon.</desc_en>
+<@3>
+
+<@4>
+    name: <pt: Espada Vermelha> <en: Red Sword>
+    <desc_pt>???</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@4>
+
+<@6>
+    name: <pt: Espada de Norte> <en: Sword of North>
+    <desc_pt>Espada do líder da facção Cavaleiros Do Norte.</desc_pt>
+    <desc_en>Sword of the faction leader Knights of the North</desc_en>
+<@6>
+
+<@8>
+    name: <pt: Tyrhung> <en: Tyrhung>
+    <desc_pt>Espada de formato estranho.</desc_pt>
+    <desc_en>Strange shape sword.</desc_en>
+<@8>
+
+<@9>
+    name: <pt: Lâmina de guerra dos loucos> <en: Warblast of the madmen>
+    <desc_pt>Lâmina longa bem leve.</desc_pt>
+    <desc_en>Long blade very light.</desc_en>
+<@9>
+
+<@10>
+    name: <pt: Espinha do silêncio> <en: Spine of silence>
+    <desc_pt>Lâmina bem afiada de cor diferente.</desc_pt>
+    <desc_en>Very sharp blade of different color.</desc_en>
+<@10>
+
+<@11>
+    name: <pt: Caledfwlch> <en: Caledfwlch>
+    <desc_pt>Espada élfica bem pesada.</desc_pt>
+    <desc_en>Elven sword very heavy.</desc_en>
+<@11>
+
+<@13>
+    name: <pt: Lança de Bronze> <en: Lança de Bronze>
+    <desc_pt>Lança simples forjada em bronze e madeira.</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@13>
+
+<@14>
+    name: <pt: Lança de Ferro> <en: Lança de Ferro>
+    <desc_pt>Lança forjada em ferro.</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@14>
+
+<@15>
+    name: <pt: Lança de Aço> <en: Lança de Aço>
+    <desc_pt>Lança resistente de aço.</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@15>
+
+<@17>
+    name: <pt: Arco de madeira> <en: Wooden Arch>
+    <desc_pt>Arco simples de madeira.</desc_pt>
+    <desc_en>Simple wooden bow.</desc_en>
+<@17>
+
+<@18>
+    name: <pt: Arco de Ferro> <en: Arco de Ferro>
+    <desc_pt>Arco forjado em ferro.</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@18>
+
+<@19>
+    name: <pt: Arco de Aço> <en: Arco de Aço>
+    <desc_pt>Arco forjado em aço da realeza.</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@19>
+
+<@21>
+    name: <pt: M.46> <en: M.46>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@21>
+
+<@22>
+    name: <pt: P.32> <en: P.32>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@22>
+
+<@23>
+    name: <pt: W.56> <en: W.56>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@23>
+
+<@24>
+    name: <pt: P.390> <en: P.390>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@24>
+
+<@26>
+    name: <pt: Espada de Bronze> <en: Bronze Sword>
+    <desc_pt>Espada simples forjada em bronze.</desc_pt>
+    <desc_en>Simple sword forged in bronze.</desc_en>
+<@26>
+
+<@27>
+    name: <pt: Garras> <en: Garras>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@27>
+
+<@29>
+    name: <pt: Cajado de Kyo> <en: Cajado de Kyo>
+    <desc_pt>Cajado com uma esfera.</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@29>
+
+<@31>
+    name: <pt: Machado> <en: Machado>
+    <desc_pt>Machado simples.</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@31>
+
+<@33>
+    name: <pt: Espada de Duas Mãos> <en: Espada de Duas Mãos>
+    <desc_pt>Espada simples forjada em bronze de duas mãos.</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@33>
+
+<@34>
+    name: <pt: Arma Especial> <en: Arma Especial>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@34>

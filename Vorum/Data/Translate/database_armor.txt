@@ -1,0 +1,149 @@
+﻿<@1>
+    name: <pt: Escudo composto> <en: Escudo composto>
+    <desc_pt>Escudo simples forjado em bronze.</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@1>
+
+<@2>
+    name: <pt: Escudo de Ferro> <en: Iron Shield>
+    <desc_pt>Escudo forjado em ferro.</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@2>
+
+<@3>
+    name: <pt: Escudo de Aço> <en: Escudo de Aço>
+    <desc_pt>Escudo forjado em aço da realeza.</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@3>
+
+<@5>
+    name: <pt: Elmo de Bronze> <en: Bronze Helm>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@5>
+
+<@6>
+    name: <pt: Elmo de Ferro> <en: Iron Helm>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@6>
+
+<@7>
+    name: <pt: Elmo de Aço> <en: Elmo de Aço>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@7>
+
+<@9>
+    name: <pt: Chapéu> <en: Hat>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@9>
+
+<@10>
+    name: <pt: Chapéu de Veludo> <en: Chapéu de Veludo>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@10>
+
+<@11>
+    name: <pt: Chapéu Mágico> <en: Chapéu Mágico>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@11>
+
+<@12>
+    name: <pt: Chapéu Sagrado> <en: Chapéu Sagrado>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@12>
+
+<@13>
+    name: <pt: Vestimenta padrão> <en: Standard clothing>
+    <desc_pt>Vestimenta de couro.</desc_pt>
+    <desc_en>Standard clothing.</desc_en>
+<@13>
+
+<@14>
+    name: <pt: Vestimenta de Ferro> <en: Vestimenta de Ferro>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@14>
+
+<@15>
+    name: <pt: Vestimenta de Aço> <en: Vestimenta de Aço>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@15>
+
+<@21>
+    name: <pt: Túnica> <en: Túnica>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@21>
+
+<@22>
+    name: <pt: Túnica de Veludo> <en: Túnica de Veludo>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@22>
+
+<@23>
+    name: <pt: Túnica Mágica> <en: Túnica Mágica>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@23>
+
+<@24>
+    name: <pt: Túnica Sagrada> <en: Túnica Sagrada>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@24>
+
+<@25>
+    name: <pt: Anel de Proteção> <en: Anel de Proteção>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@25>
+
+<@26>
+    name: <pt: Anel de Opala> <en: Anel de Opala>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@26>
+
+<@27>
+    name: <pt: Anel de Rubi> <en: Anel de Rubi>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@27>
+
+<@28>
+    name: <pt: Anel de Quartzo> <en: Anel de Quartzo>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@28>
+
+<@29>
+    name: <pt: Anel Infernal> <en: Anel Infernal>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@29>
+
+<@30>
+    name: <pt: Anel Glacial> <en: Anel Glacial>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@30>
+
+<@31>
+    name: <pt: Anel do Trovão> <en: Anel do Trovão>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@31>
+
+<@34>
+    name: <pt: Anel d'Água> <en: Anel d'Água>
+    <desc_pt>Informação sobre o item, por exemplo:\ncriação, onde é mais vendido e tal</desc_pt>
+    <desc_en>Information about the item, for instance:\ncreation, where is more selled and so.</desc_en>
+<@34>

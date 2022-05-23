@@ -1,0 +1,11 @@
+Itens aleatórios e até cosméticos espalhados no chão que o player só encontre quando
+usar o investigar.
+
+Tirar dada to texto da intro pra não confundir.
+
+Barra de vida.
+Aparecer nome da skill em cima antes de usar.
+
+Mudança no nome dos remédios.
+
+Mudar razão da fuga de Jalax para uma lista de decendentes de imigrantes.

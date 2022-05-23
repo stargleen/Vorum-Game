@@ -1,0 +1,34 @@
+NPC MESSAGE
+
+Não esquecer de por antes de tudo '@', e por o conteúdo dentro das {}
+
+@id_do_mapa id_do_evento {
+    Todo o conteúdo em português, nessa tag 
+	<pt>
+	  Defina a mensagem... 
+	  Ao lado da mensagem, você defini as configurações. Lembre-se sempre de definir o tempo. 
+	  As configurações, são:
+		<time: tempo em frames>
+		<y: posição em Y adicional>
+		<invert> Inverte a imagem
+	  Exemplo: 
+	  
+	  Mensagem.. <time: 50> <y: 10> <invert>
+	</pt>
+	
+	Na tag <en>, todo o conteúdo em inglês, mesmas configurações da tag <pt>
+	<en>
+	</en>
+}
+
+
+
+DATABASE...
+
+Não esquecer de por o '@', dentro da tag.
+
+<@id do item>
+  name: <pt: o nome em português> <en: o nome em inglês>
+  <desc_pt> Descrição do item em portuguÊs </desc_pt>
+  <desc_en> Descrição do item em inglês </desc_en>
+<@id do item>

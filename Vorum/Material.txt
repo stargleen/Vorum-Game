@@ -1,0 +1,124 @@
+______________________________________________________________________________________
+
+
+PC | RPG Maker XP | Drama, Scientific Fiction  | PT | EN
+Pixel Art - Felipe Souza
+Level Design & Concept Design - Lon Sevidanes
+Musica - Jonas Zaggo
+Character Design - Vanessa June
+Script - Gabriel
+Roteiro: Lon Sevidanes
+
+
+______________________________________________________________________________________
+
+§Sonoro(Trilha sonora e efeitos sonoros)
+
+https://epicsoundeffects.com/
+
+Ui
+
+https://opengameart.org/users/buch
+
+Trilha Sonora original composta por:
+
+Jonas Zaggo 
+
+
+______________________________________________________________________________________
+§Recursos gráficos
+
+Vanessa June (Original)
+Felipe Souza (Original)
+Lon Sevidanes (Original)
+Ryan Kamos (Original)
+
+Zabin,Jetrel, Hiptose, surt: https://opengameart.org/content/lots-of-trees-and-plants-from-oga-db32-tilesets-pack-1
+Inquisitor: http://downloads.rpg-palace.com/
+Sithjester: https://untamed.wild-refuge.net/rmxpresources.php?characters
+Euphony: https://forums.rpgmakerweb.com/index.php?threads/rmxp-tile-add-ons.1475
+Game-icons.net: http://game-icons.net/tags/body.html
+kauzz - https://kauzz.store/
+Enterbrain
+Vanessa June
+
+
+______________________________________________________________________________________
+
+§Programadores de script
+
+Gabriel
+Wachunga
+Moghunter
+Enu
+Raizen
+Zeus
+Renan Tsuneo Hangai Junior
+Rataime
+Tibuda 
+SephirothSpawn
+Falcao
+Raziel
+Cold
+Madajuv
+KVOTHE
+Programadores desconhecidos
+
+______________________________________________________________________________________
+
+§Programação de eventos e mapeamento
+
+Lon Sevidanes
+
+______________________________________________________________________________________
+
+§Design de personagem
+
+Lon Sevidanes
+
+Vanessa June
+
+______________________________________________________________________________________
+
+§Roteiro 
+
+Lon Sevidanes
+
+______________________________________________________________________________________
+
+§Beta Testers
+
+Ven
+Kvothe 
+Joe Father
+Angelo Nobre
+Denver
+Senaka
+HAMMERSTRIKE
+NEONX
+Ronaldo Bento
+
+______________________________________________________________________________________
+
+§Agradecimentos especiais#
+
+Ryan Kamos
+Felipe Falcon
+Ronaldo Bento
+Joe Father
+Uhtred
+Tecao98(Slayer)
+Ciclope
+Condado Braveheart Games(http://condadobraveheart.com/)
+Centro RPG Maker(http://centrorpg.com/)
+
+
+                                                       _______________________________________________
+
+                                                                              §Vorum§
+
+      §2014 Lon Sevidanes/ Odilon Sevidanes / Todos direitos reservados/ Todos nomes de personagens, 
+      §desenhos e designers tem todos direitos reservados ao autor dos mesmos, que é Odilon Sevidanes © proíbido todo o uso 
+      §do material para fins lucrativos./ Arte e trabalho original por Star Gleen, Vanessa June e Felipe Souza/ 2021 Lon Sevidanes ©
+
+                                                      _______________________________________________

@@ -1,0 +1,113 @@
+﻿<@1>
+    name: <pt: Cura> <en: Cure>
+    <desc_pt>Recupera um pouco o HP de um aliado.</desc_pt>
+    <desc_en>Restore a few amount of HP from a ally.</desc_en>
+<@1>
+
+<@2>
+    name: <pt: Média Cura> <en: Cura>
+    <desc_pt>Recupera bastante o HP de um aliado.</desc_pt>
+    <desc_en>Restore a great amount of HP from a ally.</desc_en>
+<@2>
+
+<@3>
+    name: <pt: Cura Solar> <en: Solar Cure>
+    <desc_pt>Restaura o máximo de HP de toda equipe.</desc_pt>
+    <desc_en>Restore the maximum HP from all allies.</desc_en>
+<@3>
+
+<@4>
+    name: <pt: Cura de Status> <en: Holy Cure>
+    <desc_pt>Cura os status negativos de um aliado.</desc_pt>
+    <desc_en>Remove the negative status from a ally.</desc_en>
+<@4>
+
+<@5>
+    name: <pt: Magia Divina> <en: Holy Magic>
+    <desc_pt>Magia curativa de nível 2,\ncura os status negativos de todo o grupo</desc_pt>
+    <desc_en>Holy magic of nivel 2,\nremove the negative status from all allies.</desc_en>
+<@5>
+
+<@6>
+    name: <pt: Fogo> <en: Fire>
+    <desc_pt>Magia de fogo simples.</desc_pt>
+    <desc_en>Simple magic of fire.</desc_en>
+<@6>
+
+<@9>
+    name: <pt: Correr> <en: Run>
+    <desc_pt>Ao apertar "Shift" a movimentação\ndo seu personagem aumenta.</desc_pt>
+    <desc_en>At triggered "Shift" the movimentation\nof your player up</desc_en>
+<@9>
+
+<@10>
+    name: <pt: Pular> <en: Jump>
+    <desc_pt>Você pode pular objetos\ne acessar novas áreas.</desc_pt>
+    <desc_en>You can jump objects and\n access new regions.</desc_en>
+<@10>
+
+<@12>
+    name: <pt: Aumento de dano> <en: Damage Buff>
+    <desc_pt>Aumenta o seu dano ou de um aliado em 3.</desc_pt>
+    <desc_en>Aumenta o seu dano ou de um aliado em 3.</desc_en>
+<@12>
+
+<@33>
+    name: <pt: Envenenamento> <en: Poison>
+    <desc_pt>Magia venenosa de nível 1\natinge um inimigo.</desc_pt>
+    <desc_en>Poison magic of nivel 1\ntarget an foe.</desc_en>
+<@33>
+
+<@34>
+    name: <pt: Névoa Venenosa> <en: Poison Mist>
+    <desc_pt>Magia venenosa de nível 2\natinge todos os inimigos.</desc_pt>
+    <desc_en>Poison magic of nivel 2\ntarget all foes.</desc_en>
+<@34>
+
+<@37>
+    name: <pt: Mudez> <en: Silence>
+    <desc_pt>Magia de mudez de nível 1\natinge um inimigo.</desc_pt>
+    <desc_en>Silence magic of nivel 1\ntarget an foe.</desc_en>
+<@37>
+
+<@38>
+    name: <pt: Névoa do Silêncio> <en: Silence Mist>
+    <desc_pt>Magia de mudez de nível 2\natinge todos os inimigo.</desc_pt>
+    <desc_en>Silence magic of nivel 2\ntarget all foes.</desc_en>
+<@38>
+
+<@39>
+    name: <pt: Confusão> <en: Confuse>
+    <desc_pt>Magia de confusão de nível 1\natinge um inimigo</desc_pt>
+    <desc_en>Confuse magic of nivel 1\ntarget an foe.</desc_en>
+<@39>
+
+<@40>
+    name: <pt: Névoa Caótica> <en: Chaotic Mist>
+    <desc_pt>Magia de confusão de nível 2\natinge um inimigo</desc_pt>
+    <desc_en>Confuse magic of nivel 2\ntarget all foes.</desc_en>
+<@40>
+
+<@41>
+    name: <pt: Sono> <en: Sleep>
+    <desc_pt>Magia entorpecente de nível 1\atinge um inimigo</desc_pt>
+    <desc_en>Sleep magic of nivel 1\ntarget an foe.</desc_en>
+<@41>
+
+<@93>
+    name: <pt: Chute> <en: Kick>
+    <desc_pt>Inflija ao inimigo um poderoso chute.</desc_pt>
+    <desc_en>Do a deep slash on foe.</desc_en>
+<@93>
+
+<@106>
+    name: <pt: Combo Duplo> <en: Double Strike>
+    <desc_pt>Executa um combo duplo.</desc_pt>
+    <desc_en>Run a double strike</desc_en>
+<@106>
+
+<@123>
+    name: <pt: Flecha Precisa> <en: Accuracy Arrow>
+    <desc_pt>Atira uma flecha precisa no inimigo.\nDurante muitos anos, Jalax treinou sua precisão\nno arco. Certa vez, frente ao seu velho mentor, foi\nelogiado por ter uma alta precisão, que acertaria\nqualquer um dentro de um raio de 500 metros!</desc_pt>
+    <desc_en>Shoot an full accuracy arrow loaded on foe.</desc_en>
+<@123>

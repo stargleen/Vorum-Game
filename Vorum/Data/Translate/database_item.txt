@@ -1,0 +1,377 @@
+﻿<@1>
+    name: <pt: Poção> <en: Potion>
+    <desc_pt>Restaura 20 pontos de vida.</desc_pt>
+    <desc_en>Restores 20 health.</desc_en>
+<@1>
+
+<@2>
+    name: <pt: Poção Média> <en: Medium Potion>
+    <desc_pt>Restaura 40 pontos de vida.</desc_pt>
+    <desc_en>Restores 40 health.</desc_en>
+<@2>
+
+<@3>
+    name: <pt: Poção Completa> <en: Full Potion>
+    <desc_pt>Restaura 70 pontos de vida.</desc_pt>
+    <desc_en>Restores 70 health.</desc_en>
+<@3>
+
+<@4>
+    name: <pt: Poção Divina> <en: Divine Potion>
+    <desc_pt>Restaura todos pontos de vida e de habilidade.</desc_pt>
+    <desc_en>Restores all health and skill points.</desc_en>
+<@4>
+
+<@5>
+    name: <pt: Chave da casa de Gadrock> <en: Gadrock House's Key>
+    <desc_pt>Chave da casa de Gadrock.</desc_pt>
+    <desc_en>Key of Gadrock House.</desc_en>
+<@5>
+
+<@6>
+    name: <pt: Relíquia> <en: Relic>
+    <desc_pt>Relíquia..</desc_pt>
+    <desc_en>Relic.</desc_en>
+<@6>
+
+<@7>
+    name: <pt: Relíquia> <en: Relic>
+    <desc_pt>Relíquia.</desc_pt>
+    <desc_en>Relíquia.</desc_en>
+<@7>
+
+<@8>
+    name: <pt: Elixir Completo> <en: Full Elixir>
+    <desc_pt>Revive um aliado morto, com mais vida.</desc_pt>
+    <desc_en>Revive a dead ally, with more life.</desc_en>
+<@8>
+
+<@9>
+    name: <pt: Tonico> <en: Tonic>
+    <desc_pt>Recupera MP de um personagem.</desc_pt>
+    <desc_en>Recovers MP of a character.</desc_en>
+<@9>
+
+<@10>
+    name: <pt: Tonico Completo> <en: Full Tonic>
+    <desc_pt>Revive um aliado abatido com a vida maxima.</desc_pt>
+    <desc_en>Revive a downed ally with maximum life.</desc_en>
+<@10>
+
+<@11>
+    name: <pt: Antidoto> <en: Antidote>
+    <desc_pt>Remove o status veneno.</desc_pt>
+    <desc_en>Remove poison status.</desc_en>
+<@11>
+
+<@12>
+    name: <pt: Remédio> <en: Remedy>
+    <desc_pt>Remove vários status maléficos.</desc_pt>
+    <desc_en>Removes multiple evil statuses.</desc_en>
+<@12>
+
+<@15>
+    name: <pt: Uma atitude honrada> <en: A honorable act>
+    <desc_pt>História dos Cavaleiros Honrados de Tridas.</desc_pt>
+    <desc_en>History of Tridas Honored Knights</desc_en>
+<@15>
+
+<@16>
+    name: <pt: As facções> <en: The factions>
+    <desc_pt>Surgimento inesperado das facções.</desc_pt>
+    <desc_en>Unexpected emergence of factions.</desc_en>
+<@16>
+
+<@17>
+    name: <pt: Maldição do Ghesa> <en: Course of the Ghesa>
+    <desc_pt>Livro escrito em língua morta.</desc_pt>
+    <desc_en>Book written in dead language.</desc_en>
+<@17>
+
+<@18>
+    name: <pt: As facções> <en: The factions>
+    <desc_pt>Surgimento inesperado das facções.</desc_pt>
+    <desc_en>Unexpected emergence of factions.</desc_en>
+<@18>
+
+<@19>
+    name: <pt: A magia> <en: The Magick>
+    <desc_pt>Magia, do começo ao fim.</desc_pt>
+    <desc_en>Magic, from beginning to end.</desc_en>
+<@19>
+
+<@20>
+    name: <pt: Poção Desconhecida> <en: Unknow Potion>
+    <desc_pt>???</desc_pt>
+    <desc_en>???</desc_en>
+<@20>
+
+<@22>
+    name: <pt: Chave da casa secreta> <en: Key of the Secret House>
+    <desc_pt>Chave da casa secreta de Hilac.</desc_pt>
+    <desc_en>Key of the secret house of Hilac.</desc_en>
+<@22>
+
+<@23>
+    name: <pt: Cogumelo> <en: Mushroom>
+    <desc_pt>Corpo de frutificação relativamente grande de fungos.</desc_pt>
+    <desc_en>Relatively large body of fungi.</desc_en>
+<@23>
+
+<@24>
+    name: <pt: Pergaminho vazio> <en: Empty Scroll>
+    <desc_pt>Pergaminho para escrita.</desc_pt>
+    <desc_en>Parchment for writing.</desc_en>
+<@24>
+
+<@25>
+    name: <pt: Papel> <en: Paper>
+    <desc_pt>Papel vazio.</desc_pt>
+    <desc_en>Empty paper.</desc_en>
+<@25>
+
+<@26>
+    name: <pt: Tora de madeira> <en: Log of wood>
+    <desc_pt>Tora de madeira.</desc_pt>
+    <desc_en>Log of wood.</desc_en>
+<@26>
+
+<@27>
+    name: <pt: Alho> <en: Garlic>
+    <desc_pt>Geralmente usado como tempero.</desc_pt>
+    <desc_en>Usually used as seasoning.</desc_en>
+<@27>
+
+<@28>
+    name: <pt: Maçã> <en: Apple>
+    <desc_pt>Recupera rasoavelmente a vida do personagem.</desc_pt>
+    <desc_en>Regains the life of the character.</desc_en>
+<@28>
+
+<@29>
+    name: <pt: Informações> <en: Informations>
+    <desc_pt>Informação da Gruta coletada.</desc_pt>
+    <desc_en>Cave information collected.</desc_en>
+<@29>
+
+<@30>
+    name: <pt: Minério de ferro> <en: Iron ore>
+    <desc_pt>Uma pedra usada para se fazer espadas.</desc_pt>
+    <desc_en>A stone used to make swords.</desc_en>
+<@30>
+
+<@31>
+    name: <pt: Erva fina> <en: Fine herb>
+    <desc_pt>Usadas para compor remédios.</desc_pt>
+    <desc_en>Used to make medicine.</desc_en>
+<@31>
+
+<@32>
+    name: <pt: Fruta> <en: Fruit>
+    <desc_pt>Recupera razoavelmente a vida do personagem.</desc_pt>
+    <desc_en>Reasonably recovers the character's life.</desc_en>
+<@32>
+
+<@33>
+    name: <pt: Pergaminho ilegível> <en: Unreadable parchment.>
+    <desc_pt>Pergaminho ilegível.</desc_pt>
+    <desc_en>Unreadable parchment.</desc_en>
+<@33>
+
+<@34>
+    name: <pt: Saco> <en: Bag>
+    <desc_pt>Saco para colocar frutas.</desc_pt>
+    <desc_en>Fruit bag.</desc_en>
+<@34>
+
+<@35>
+    name: <pt: Flor> <en: Flower>
+    <desc_pt>Bela flor.</desc_pt>
+    <desc_en>Beautiful flower.</desc_en>
+<@35>
+
+<@36>
+    name: <pt: Vaso de flor> <en: Bucket of Flower>
+    <desc_pt>Vaso de flor.</desc_pt>
+    <desc_en>Bucket of Flower.</desc_en>
+<@36>
+
+<@37>
+    name: <pt: Peixe> <en: Fish>
+    <desc_pt>Carne de peixe.</desc_pt>
+    <desc_en>Fish meat.</desc_en>
+<@37>
+
+<@38>
+    name: <pt: Pedra> <en: Stone>
+    <desc_pt>Pedra.</desc_pt>
+    <desc_en>Stone.</desc_en>
+<@38>
+
+<@39>
+    name: <pt: Trevo de quatro folhas> <en: Four leaf Clover>
+    <desc_pt>Trevo de quatro folhas.</desc_pt>
+    <desc_en>Four leaf Clover.</desc_en>
+<@39>
+
+<@40>
+    name: <pt: Sal> <en: Salt>
+    <desc_pt>Usado como tempero.</desc_pt>
+    <desc_en>Used as seasoning.</desc_en>
+<@40>
+
+<@41>
+    name: <pt: Ovo> <en: Egg>
+    <desc_pt>Ovo de galinha.</desc_pt>
+    <desc_en>Chicken's egg.</desc_en>
+<@41>
+
+<@42>
+    name: <pt: Abacaxi> <en: Pineapple>
+    <desc_pt>Abacaxi.</desc_pt>
+    <desc_en>Pineapple.</desc_en>
+<@42>
+
+<@43>
+    name: <pt: Frasco vazio> <en: Empty bottle>
+    <desc_pt>Frasco vazio.</desc_pt>
+    <desc_en>Empty bottle.</desc_en>
+<@43>
+
+<@44>
+    name: <pt: Frasco grande vazio> <en: Empty large bottle>
+    <desc_pt>Frasco grande vazio.</desc_pt>
+    <desc_en>Empty large bottle.</desc_en>
+<@44>
+
+<@45>
+    name: <pt: Pimenta> <en: Peper>
+    <desc_pt>Pimenta muito ardente.</desc_pt>
+    <desc_en>Very hot pepper.</desc_en>
+<@45>
+
+<@46>
+    name: <pt: Poção Desconhecida> <en: Unknow Potion>
+    <desc_pt>???</desc_pt>
+    <desc_en>???</desc_en>
+<@46>
+
+<@47>
+    name: <pt: Pão> <en: Bread>
+    <desc_pt>Pão novo.</desc_pt>
+    <desc_en>New bread.</desc_en>
+<@47>
+
+<@48>
+    name: <pt: Melancia> <en: Watermelon>
+    <desc_pt>Melancia.</desc_pt>
+    <desc_en>Watermelon.</desc_en>
+<@48>
+
+<@49>
+    name: <pt: Tomate> <en: Tomato>
+    <desc_pt>Tomate.</desc_pt>
+    <desc_en>Tomato.</desc_en>
+<@49>
+
+<@50>
+    name: <pt: Lápis> <en: Pen>
+    <desc_pt>Lápis.</desc_pt>
+    <desc_en>Pen.</desc_en>
+<@50>
+
+<@51>
+    name: <pt: Uva> <en: Grape>
+    <desc_pt>Uva.</desc_pt>
+    <desc_en>Grape.</desc_en>
+<@51>
+
+<@52>
+    name: <pt: Mato> <en: Bush>
+    <desc_pt>Mato.</desc_pt>
+    <desc_en>Bush.</desc_en>
+<@52>
+
+<@53>
+    name: <pt: Folha> <en: leaf>
+    <desc_pt>Folha.</desc_pt>
+    <desc_en>leaf</desc_en>
+<@53>
+
+<@54>
+    name: <pt: Cenoura> <en: Carrot>
+    <desc_pt>Cenoura.</desc_pt>
+    <desc_en>Carrot.</desc_en>
+<@54>
+
+<@55>
+    name: <pt: Cereja> <en: Cherry>
+    <desc_pt>Cereja.</desc_pt>
+    <desc_en>Cherry.</desc_en>
+<@55>
+
+<@56>
+    name: <pt: Tora arruinada> <en: Ruined wood>
+    <desc_pt>Tora arruinada.</desc_pt>
+    <desc_en>ruined wood.</desc_en>
+<@56>
+
+<@57>
+    name: <pt: Couro> <en: Leather>
+    <desc_pt>Couro de animal.</desc_pt>
+    <desc_en>Animal Leather.</desc_en>
+<@57>
+
+<@58>
+    name: <pt: Documento importante> <en: Important document>
+    <desc_pt>Documento importante.</desc_pt>
+    <desc_en>Important document.</desc_en>
+<@58>
+
+<@59>
+    name: <pt: Goop em frasco> <en: Goop in bottle>
+    <desc_pt>Um goop preso em frasco.</desc_pt>
+    <desc_en>Goop in bottle.</desc_en>
+<@59>
+
+<@60>
+    name: <pt: Carta de um estranho> <en: Letter from a Stranger>
+    <desc_pt>Uma carta de um desconhecido.</desc_pt>
+    <desc_en>Letter from a Stranger.</desc_en>
+<@60>
+
+<@61>
+    name: <pt: Espada Vermelha> <en: Red Sword>
+    <desc_pt>???</desc_pt>
+    <desc_en>???</desc_en>
+<@61>
+
+<@62>
+    name: <pt: Couro de Touro> <en: Taurus Leather>
+    <desc_pt>Couro de Touro.</desc_pt>
+    <desc_en>Taurus Leather.</desc_en>
+<@62>
+
+<@64>
+    name: <pt: Umbra> <en: Umbra>
+    <desc_pt>Umbra Soul Guardian.</desc_pt>
+    <desc_en>Umbra Soul Guardian.</desc_en>
+<@64>
+
+<@65>
+    name: <pt: Bushukin> <en: Bushukin>
+    <desc_pt>Bushukin.</desc_pt>
+    <desc_en>Bushukin.</desc_en>
+<@65>
+
+<@66>
+    name: <pt: Alma da floresta> <en: Forest Soul>
+    <desc_pt>Liberte a alma de seres da floresta com essa erva.</desc_pt>
+    <desc_en>Free the soul of beings from the forest with this herb.</desc_en>
+<@66>
+
+<@69>
+    name: <pt: Imposto> <en: tribute>
+    <desc_pt>Imposto.</desc_pt>
+    <desc_en>tribute</desc_en>
+<@69>

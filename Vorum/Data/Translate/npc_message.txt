@@ -1,0 +1,35 @@
+﻿@53 49 {
+    <pt>
+         <y: 0> <time: 0>
+         <time: 0>
+    </pt>
+
+    <en>
+        <time: 0>
+         <time: 0>
+    </en>
+}
+
+@53 112 {
+    <pt>
+        <time: 0> 
+        <time: 0> 
+    </pt>
+
+    <en>
+        <time: 0> 
+        <time: 0> 
+    </en>
+}
+
+@53 55 {
+    <pt>
+         <time: 0> <invert>
+         <time: 0> <invert>
+    </pt>
+
+    <en>
+        <time: 0> <invert>
+        <time: 0> <invert>
+    </en>
+}
