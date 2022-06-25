@@ -1,11 +1,14 @@
-Itens aleatórios e até cosméticos espalhados no chão que o player só encontre quando
+*Itens aleatórios e até cosméticos espalhados no chão que o player só encontre quando
 usar o investigar.
 
-Tirar dada to texto da intro pra não confundir.
+*Tirar dada to texto da intro pra não confundir.
 
-Barra de vida.
-Aparecer nome da skill em cima antes de usar.
+*Barra de vida.
 
-Mudança no nome dos remédios.
+*Aparecer nome da skill em cima antes de usar.
 
-Mudar razão da fuga de Jalax para uma lista de decendentes de imigrantes.
+*Mudança no nome dos remédios.
+
+*Mudar razão da fuga de Jalax para uma lista de decendentes de imigrantes.
+
+*Interação na parte final atirar no Klaus.
