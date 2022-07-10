@@ -2,7 +2,7 @@ ________________________________________________________________________________
 
 
 PC | RPG Maker XP | Drama, Scientific Fiction  | PT | EN
-Pixel Art - Felipe Souza
+Pixel Art - Felipe Souza - Ryzen
 Level Design & Concept Design - Lon Sevidanes
 Musica - Jonas Zaggo
 Character Design - Vanessa June
@@ -30,6 +30,7 @@ ________________________________________________________________________________
 
 Vanessa June (Original)
 Felipe Souza (Original)
+Ryzen (Original)
 Lon Sevidanes (Original)
 Ryan Kamos (Original)
 
